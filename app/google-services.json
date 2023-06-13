@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895294317023",
+    "project_id": "bike-car-service",
+    "storage_bucket": "bike-car-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895294317023:android:5b086e632500b2d544646a",
+        "android_client_info": {
+          "package_name": "com.example.bikecarservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895294317023-4uogv27qh8a6e0mgaa5hlbgn2eqeefak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezBH8wtsqyKDGAveuZV-NxEfkWp-gc1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895294317023-4uogv27qh8a6e0mgaa5hlbgn2eqeefak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
